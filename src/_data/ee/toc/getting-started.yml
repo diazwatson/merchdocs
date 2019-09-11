@@ -286,21 +286,21 @@ pages:
           url: "/configuration/sales/authorize-net-direct-post.html"
         - label: Authorize.Net
           url: "/configuration/sales/authorize-net.html"
-        - label: CyberSource (Deprecated)
+        - label: CyberSource
           url: "/configuration/sales/cybersource.html"
-        - label: eWAY (Deprecated)
+        - label: eWAY
           url: "/configuration/sales/eway.html"
         - label: Worldpay
           url: "/configuration/sales/worldpay.html"
-    - label: 3D Secure
-      url: "/configuration/sales/3d-secure.html"
-      children:
-        - label: CardinalCommerce
-          url: "/configuration/sales/cardinalcommerce.html"
     - label: Fraud Protection
       url: "/configuration/sales/fraud-protection.html"
     - label: Gift Cards
       url: "/configuration/sales/gift-cards.html"
+  - label: Sales Channels
+    url: "/configuration/sales-channels.html"
+    children:
+    - label: Global Settings
+      url: "/configuration/sales-channels/global-settings.html"
   - label: Engagement Cloud
     url: "/configuration/engagement-cloud.html"
     children:

@@ -4,42 +4,23 @@ title: Change Log
 
 Our documentation is continually updated with new topics, clarifications, and corrections to existing content. Learn more about new features, major updates, and releases, organized by month and year. Check back every now and then to see what’s new!
 
-## October 2019
+## September
 
 ### Product Releases
 
-<!--{% if "Default.B2B Only" contains site.edition %}-->
-- Magento for B2B Commerce, 2.3.3
-<!--{% endif %}-->
-<!--{% if "Default.EE Only" contains site.edition %}-->
-- Magento Commerce, 2.3.3
-<!--{% endif %}-->
-<!--{% if "Default.CE Only" contains site.edition %}-->
-- Magento Open Source, 2.3.3
-<!--{% endif %}-->
+- [Amazon Sales Channel](https://devdocs.magento.com/extensions/amazon-sales/release-notes/) 2.0.3
 
 ### New Topics
 
-- [3D Secure]({{ site.baseurl }}{% link configuration/sales/3d-secure.md %})
-- [CardinalCommerce]({{ site.baseurl }}{% link configuration/sales/cardinalcommerce.md %})
+- [Sales Channel Configuration]({{ site.baseurl }}{% link configuration/sales-channels.md %})
+- [Global Settings]({{ site.baseurl }}{% link configuration/sales-channels/global-settings.md %})
 
 ### Updated Topics
 
 |Topic |Change |
 |--- |--- |
-|[Authorize.Net]({{ site.baseurl }}{% link payment/authorize-net.md %})|Added Step #4 with setup instructions for 3D Secure with CardinalCommerce.|
-|[Klarna]({{ site.baseurl }}{% link payment/klarna.md %})|Updated _Changes In the Latest Release_ and _Klarna Solutions_. Added new _Klarna Payment Methods_ section.|
-|[Setting Up Klarna]({{ site.baseurl }}{% link payment/klarna-setup.md %})|Updated Klarna account images; updated instructions for new **Enable B2B** field.|
-|[Klarna]({{ site.baseurl }}{% link configuration/sales/klarna.md %})|Updated screenshot and field descriptions for new Enable B2B field.|
-|[Store Admin]({{ site.baseurl }}{% link stores/admin.md %}) <br/>[Admin Sign In]({{ site.baseurl }}{% link stores/admin-signin.md %})|New `Allow admin usage data collection` dialog is displayed the first time an admin logs in after installing or upgrading to Magento 2.3.3.|
-|[Admin]({{ site.baseurl }}{% link configuration/advanced/admin.md %}) (configuration)|New configuration option to allow user interaction tracking in the Magento Admin.|
-|[Catalog]({{ site.baseurl }}{% link configuration/catalog/catalog.md %}) (configuration)|_Search Engine Optimization_ section. Added information for a new `Generate "category/product" URL Rewrites` field.|
-|[Automatic Product Redirects]({{ site.baseurl }}{% link marketing/url-redirect-product-automatic.md %})|Added note at the top and a new section at the bottom to skip generation of product URL rewrites for category save.|
-|[URL Rewrites]({{ site.baseurl }}{% link marketing/url-rewrite.md %}) <br/>[Product Rewrites]({{ site.baseurl }}{% link marketing/url-rewrite-product.md %}) <br/>[Category Rewrites]({{ site.baseurl }}{% link marketing/url-rewrite-category.md %}) |Added note about performance issue and link to detailed information about automatic redirects.|
-|[Vertex Cloud]({{ site.baseurl }}{% link tax/vertex.md %})|Added release notes for Vertex Cloud integration for new flexible fields configuration.|
-|[Configuring Magento]({{ site.baseurl }}{% link tax/vertex-configure-magento.md %}) <br/>[Tax]({{ site.baseurl }}{% link configuration/sales/tax.md %}) (configuration)|Added new _Vertex Flexible Fields_ section.|
-|[Engagement Cloud]({{ site.baseurl }}{% link marketing/engagement-cloud.md %})|Updated Changes in the Latest Release.|
-|Engagement Cloud - configuration reference topics: <br/>- [Abandoned Cart]({{ site.baseurl }}{% link configuration/engagement-cloud/abandoned-carts.md %}) <br/>- [Automation]({{ site.baseurl }}{% link configuration/engagement-cloud/automation.md %}) <br/>- [Configuration]({{ site.baseurl }}{% link configuration/engagement-cloud/configuration.md %}) <br/>- [Data Mapping]({{ site.baseurl }}{% link configuration/engagement-cloud/data-mapping.md %}) <br/>- [Developer]({{ site.baseurl }}{% link configuration/engagement-cloud/developer.md %}) <br/>- [Dynamic Content]({{ site.baseurl }}{% link configuration/engagement-cloud/dynamic-content.md %}) <br/>- [Email Templates]({{ site.baseurl }}{% link configuration/engagement-cloud/email-templates.md %}) <br/>- [Sync Settings]({{ site.baseurl }}{% link configuration/engagement-cloud/sync-settings.md %}) <br/>- [Transactional Emails]({{ site.baseurl }}{% link configuration/engagement-cloud/transactional-emails.md %})|Completed field descriptions.|
+|[Amazon Sales Channel Settings]({{ site.baseurl }}{% link sales-channels/amazon/sales-channel-settings.md %})|Added information for the _Enable Debug Logging_ setting. |
+|[Amazon Sales Channel Logs and Reports]({{ site.baseurl }}{% link sales-channels/amazon/amazon-logs-reports.md %})|Added reference to the _Enable Debug Logging_ setting for troubleshooting. |
 
 <!--{% if "Default.EE-B2B" contains site.edition %}-->
 ## August 2019
@@ -81,7 +62,7 @@ Our documentation is continually updated with new topics, clarifications, and co
 <!--{% if "Default.B2B Only" contains site.edition %}-->
 - Magento for B2B Commerce, 2.3.2
 <!--{% endif %}-->
-<!--{% if "Default.EE Only" contains site.edition %}-->
+<!--{% if "Default.EE,Default.EE Only" contains site.edition %}-->
 - Magento Commerce, 2.3.2
 <!--{% endif %}-->
 <!--{% if "Default.CE Only" contains site.edition %}-->
@@ -180,7 +161,7 @@ Our documentation is continually updated with new topics, clarifications, and co
 <!--{% if "Default.B2B Only" contains site.edition %}-->
 - Magento for B2B Commerce, 2.3.1
 <!--{% endif %}-->
-<!--{% if "Default.EE Only" contains site.edition %}-->
+<!--{% if "Default.EE,Default.EE Only" contains site.edition %}-->
 - Magento Commerce, 2.3.1
 <!--{% endif %}-->
 <!--{% if "Default.CE Only" contains site.edition %}-->

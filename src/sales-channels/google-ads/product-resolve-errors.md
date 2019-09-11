@@ -15,6 +15,9 @@ Review Google's [Product data specification][1] to best understand the product d
 
 {% include product-approval-links.md %}
 
+{:.bs-callout .bs-callout-tip}
+You can also check the service log for additional information when troubleshooting is needed. Google Shopping ads Channel logging is written to the `{Magento Root}/var/log/google_indexer.log` file and can be viewed in [developer mode]({{ site.baseurl }}{% link magento/installation-modes.md %}). Information for this log includes requests to and responses from Google. To enable or disable logging, see [Channels]({{ site.baseurl }}{% link configuration/services/channels.md %}).
+
 ## To resolve product errors:
 
 Use these instructions to resolve all product issues.

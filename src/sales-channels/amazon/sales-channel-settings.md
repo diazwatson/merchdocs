@@ -8,12 +8,13 @@ Amazon Sales Channel settings are defaulted during installation of the extension
 - Whether or not to display the **Revenue** section on the store's dashboard.
 - Intervals for clearing activity log history.
 - Selection of the Cron source.
+- Whether or not to log synchronization data.
 
 ## To modify your Amazon Sales Channel settings:
 
-1. Click **Stores** in the Admin sidebar. Then under Settings, click **Configuration**.
+1. Click **Stores** in the _Admin_ sidebar. Then under _Settings_, click **Configuration**.
 
-1. Scroll down and click **Sales Channels** and then **Global Settings**. The Sales Channel Settings screen displays.
+1. Scroll down and click **Sales Channels** and then **Global Settings**. The _Sales Channel Settings_ screen displays.
 
 1. For **Show Dashboard Chart**, select an option in the drop-down.
 
@@ -26,9 +27,13 @@ Amazon Sales Channel settings are defaulted during installation of the extension
     - **Once Weekly**: Select this option to clear your store's activity history once weekly.
     - **Once Monthly**: (Default) Select this option to clear your store's activity history once monthly.
 
-1. For **Background Tasks (CRON)** Source, select "Magento CRON" in the drop-down. This tells Amazon Sales Channel to used your Magento Cron settings to determine communication and data sync intervals with Amazon Seller Central.
+1. For **Background Tasks (CRON)** Source, select `Magento CRON` in the drop-down. This tells Amazon Sales Channel to used your Magento Cron settings to determine communication and data sync intervals with Amazon Seller Central.
+
+1. For **Enable Debug Logging**, select `Enabled` to collect additional synchronization data when troubleshooting is needed.
+
+   Amazon Sales Channel logging is written to the `{Magento Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode]({{ site.baseurl }}{% link magento/installation-modes.md %}).
 
 1. Click <span class="btn">Save Config</span>.
 
 ![]({{ site.baseurl }}{% link images/images/sales-channels/amazon/config-sales-channel-global-settings.png %}){: .zoom}
-_Amazon Sales Channel Global Settings_
+[_Amazon Sales Channel Global Settings_]({{ site.baseurl }}{% link configuration/sales-channels/global-settings.md %})
