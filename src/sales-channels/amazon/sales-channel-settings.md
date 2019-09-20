@@ -14,20 +14,24 @@ Amazon Sales Channel settings are defaulted during installation of the extension
 
 1. Click **Stores** in the _Admin_ sidebar. Then under _Settings_, click **Configuration**.
 
-1. Scroll down and click **Sales Channels** and then **Global Settings**. The _Sales Channel Settings_ screen displays.
+1. Scroll down and click **Sales Channels** and then **Global Settings**.
 
-1. For **Show Dashboard Chart**, select an option in the drop-down.
+1. For **Show Dashboard Chart**, select an option.
 
-    - **Yes**: (Default) Choose when you want the **Revenue** section to display on the store's [dashboard]({{ site.baseurl }}{% link sales-channels/amazon/amazon-store-dashboard.md %}). If set to "Yes," the **Revenue** section displays a graphical representation for the store's revenue for the last 7 or 30 days.
+    - **Yes**: (Default) Choose when you want the **Revenue** section to display on the store's [dashboard]({{ site.baseurl }}{% link sales-channels/amazon/amazon-store-dashboard.md %}). If set to 'Yes', the **Revenue** section displays a graphical representation for the store's revenue for the last 7 or 30 days.
     - **No**: Choose when you do not want the **Revenue** section to display on the store's [dashboard]({{ site.baseurl }}{% link sales-channels/amazon/amazon-store-dashboard.md %}).
 
-1. For **Clear Log History**, select an option in the drop-down. Options:
+1. For **Clear Log History**, select an option.
 
     - **Once Daily**: Select this option to clear your store's activity history once daily.
+
     - **Once Weekly**: Select this option to clear your store's activity history once weekly.
+
     - **Once Monthly**: (Default) Select this option to clear your store's activity history once monthly.
 
-1. For **Background Tasks (CRON)** Source, select `Magento CRON` in the drop-down. This tells Amazon Sales Channel to used your Magento Cron settings to determine communication and data sync intervals with Amazon Seller Central.
+1. For **Background Tasks (CRON) Source**, select `Magento CRON`.
+
+   This tells Amazon Sales Channel to used your Magento [Cron]({{ site.baseurl }}{% link system/cron.md %}) settings to determine communication and data sync intervals with Amazon Seller Central.
 
 1. For **Enable Debug Logging**, select `Enabled` to collect additional synchronization data when troubleshooting is needed.
 
