@@ -4,6 +4,24 @@ title: Change Log
 
 Our documentation is continually updated with new topics, clarifications, and corrections to existing content. Learn more about new features, major updates, and releases, organized by month and year. Check back every now and then to see what’s new!
 
+## September
+
+### Product Releases
+
+- [Amazon Sales Channel](https://devdocs.magento.com/extensions/amazon-sales/release-notes/), 2.0.3
+
+### New Topics
+
+- [Sales Channel Configuration]({{ site.baseurl }}{% link configuration/sales-channels.md %})
+- [Global Settings]({{ site.baseurl }}{% link configuration/sales-channels/global-settings.md %})
+
+### Updated Topics
+
+|Topic |Change |
+|--- |--- |
+|[Amazon Sales Channel Settings]({{ site.baseurl }}{% link sales-channels/amazon/sales-channel-settings.md %})|Added information for the _Enable Debug Logging_ setting. |
+|[Amazon Sales Channel Logs and Reports]({{ site.baseurl }}{% link sales-channels/amazon/amazon-logs-reports.md %})|Added reference to the _Enable Debug Logging_ setting for troubleshooting. |
+
 <!--{% if "Default.EE-B2B" contains site.edition %}-->
 ## August 2019
 

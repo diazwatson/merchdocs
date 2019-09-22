@@ -7,6 +7,9 @@ Your order settings are configured first during [onboarding]({{ site.baseurl }}{
 
 {% include amazon-order-settings.md %}
 
+{:.bs-callout .bs-callout-info}
+When the extension is set to create a corresponding Magento order but the item SKU for an Amazon order does not match an existing Magento catalog product, the order is created with the following additional actions: <br/>- a Magento catalog product is created with the incoming SKU<br/>- the product status is set to `Disabled`<br/>- inventory management for the product is set to `Do Not Manage Inventory`
+
 {% include amazon-order-settings-configure.md %}
 
 ![]({{ site.baseurl }}{% link images/images/sales-channels/amazon/amazon-order-settings.png %}){: .zoom}
