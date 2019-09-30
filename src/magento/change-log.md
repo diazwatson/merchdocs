@@ -8,7 +8,7 @@ Our documentation is continually updated with new topics, clarifications, and co
 
 ### Product Releases
 
-- [Amazon Sales Channel](https://devdocs.magento.com/extensions/amazon-sales/release-notes/) 2.0.3
+- [Amazon Sales Channel](https://devdocs.magento.com/extensions/amazon-sales/release-notes/) 3.0
 
 ### New Topics
 
@@ -21,6 +21,10 @@ Our documentation is continually updated with new topics, clarifications, and co
 |--- |--- |
 |[Amazon Sales Channel Settings]({{ site.baseurl }}{% link sales-channels/amazon/sales-channel-settings.md %})|Added information for the _Enable Debug Logging_ setting. |
 |[Amazon Sales Channel Logs and Reports]({{ site.baseurl }}{% link sales-channels/amazon/amazon-logs-reports.md %})|Added reference to the _Enable Debug Logging_ setting for troubleshooting. |
+|[Amazon Sales Channel Pre-Setup Tasks]({{ site.baseurl }}{% link sales-channels/amazon/amazon-pre-setup-tasks.md %})|Updated to include VAT setup.|
+|[Amazon Sales Channel Store Integration]({{ site.baseurl }}{% link sales-channels/amazon/store-integration.md %})|Updated Marketplace options to include the United Kingdom.|
+|[Amazon Sales Channel Onboarding: Listing Price]({{ site.baseurl }}{% link sales-channels/amazon/ob-listing-price.md %})|Updated VAT description and Listing Price screen capture and added PTC field descriptions for EU sales.|
+|[Amazon Sales Channel Listing Price]({{ site.baseurl }}{% link sales-channels/amazon/listing-price.md %})|Updated VAT description and Listing Price screen capture and added PTC field descriptions for EU sales.|
 
 <!--{% if "Default.EE-B2B" contains site.edition %}-->
 ## August 2019

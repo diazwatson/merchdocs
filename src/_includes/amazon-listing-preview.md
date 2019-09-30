@@ -5,7 +5,9 @@ Listing Preview allows you to preview your potential Amazon listings and make an
 
 Your potential Amazon listings will populate on the Listing Preview screen in one of three tabs:
 
-- **Ineligible Listings**: Products listed on this tab are not eligible for Amazon listing based on your current listing rule settings.<br /><br />Ineligible products will not be published to Amazon. If an ineligible product is already listed on Amazon and you match the Amazon listing to your Magento catalog product, the quantity for the Amazon listing will change to 0 to prevent sales of the product. To manually remove a listing, see [Ending an Amazon Listing]({{ site.baseurl }}{% link sales-channels/amazon/end-listings-manually.md %}).Products that are not eligible by Amazon requirements are not listed here. Those products are listed on the [Inactive Listings tab]({{ site.baseurl }}{% link sales-channels/amazon/inactive-listings.md %}).
+- **Ineligible Listings**: Products listed on this tab are not eligible for Amazon listing based on your current listing rule settings.
+
+   Ineligible products will not be published to Amazon. If an ineligible product is already listed on Amazon and you match the Amazon listing to your Magento catalog product, the quantity for the Amazon listing will change to 0 to prevent sales of the product. To manually remove a listing, see [Ending an Amazon Listing]({{ site.baseurl }}{% link sales-channels/amazon/end-listings-manually.md %}).Products that are not eligible by Amazon requirements are not listed here. Those products are listed on the [Inactive Listings tab]({{ site.baseurl }}{% link sales-channels/amazon/inactive-listings.md %}).
 
 - **Eligible Listings**: Products listed on this tab are eligible for Amazon listing based on your current listing rule setup and are eligible by Amazon requirements. This tab includes your existing Amazon listings that will import (if you have the **Import Third Party Listings** field set to "Import Listing" in the Listing Settings step).
 
