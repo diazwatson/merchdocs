@@ -1,5 +1,5 @@
 
-## To configure Stock / Quantity settings:
+## To configure Fulfilled By settings:
 
 1. Expand **Fulfilled By**.
 
