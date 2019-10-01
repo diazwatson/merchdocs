@@ -8,7 +8,7 @@ Our documentation is continually updated with new topics, clarifications, and co
 
 ### Product Releases
 
-- [Amazon Sales Channel](https://devdocs.magento.com/extensions/amazon-sales/release-notes/) 3.0
+- [Amazon Sales Channel  v3.0.0](https://devdocs.magento.com/extensions/amazon-sales/release-notes/)
 
 ### New Topics
 
