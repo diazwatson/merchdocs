@@ -12,6 +12,8 @@ Best practices include:
 
 - Amazon Sales Channel imports your Amazon order information. To manage your Amazon orders in Amazon Sales Channel, you must ensure that your [order settings]({{ site.baseurl }}{% link sales-channels/amazon/order-settings.md %}) are defined to import and create a corresponding Magento order for each Amazon order. If this is not defined, you will only be able to view your Amazon order information. All taxes for sales through Amazon are still managed and remitted via your Amazon Seller Central account. In some states, Amazon is required to automatically collect and remit taxes. For other states, sellers have the option of calculating taxes manually or automatically. See [Amazon: Tax Policies](https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200405820&language=en_US&ref=efph_200405820_cont_521). You may be required to log into your Amazon Seller Central account to view Amazon Tax Policy documentation.
 
+- For UK regions, it is best  practice to enroll in the [Amazon VAT Calculation Service](https://services.amazon.co.uk/vat-calculation-service.html) before onboarding Amazon Sales Channel.
+
 Limitations include:
 
 - Bundle, gift card, and grouped product types that are part of your Magento catalog are not supported by Amazon Sales Channel for listing to Amazon.
