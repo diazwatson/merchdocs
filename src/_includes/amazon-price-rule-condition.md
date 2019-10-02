@@ -30,25 +30,25 @@ You can create different conditions by changing the combination of these values.
    ![]({{ site.baseurl }}{% link images/images/sales-channels/amazon/ob-conditions-combinations.png %}){: .zoom}
    _Conditions Combination_
 
-   **Product Attribute**: The product attributes in this drop-down is dependent on the setup of the attribute. For an attribute to display in the list, it must be configured to be used in promo rule conditions. See the Use for Promo Rule Conditions field in [Product Attributes]({{ site.baseurl }}{% link stores/attributes-product.md %}).
+   **Product Attribute**: The available product attributes are dependent on the setup of the attribute. For an attribute to display in the list, it must be configured to be used in promo rule conditions. See the Use for Promo Rule Conditions field in [Product Attributes]({{ site.baseurl }}{% link stores/attributes-product.md %}).
 
    - In the list under **Product Attribute**, choose the attribute that you want to use as the basis of the condition. For this example, the selected condition is `Category`.
 
       ![]({{ site.baseurl }}{% link images/images/sales-channels/amazon/ob-price-rule-condition-2.png %}){: .zoom}
       _Condition Line 2, Part 2_
 
-      The selected condition displays in the statement, followed by two more bold links. The options differ depending on the product attribute you select.
+      The selected condition appears in the statement, followed by two more bold links. The options differ depending on the product attribute you select.
 
-      Once you set the attribute, it cannot be changed. To change the attribute, you must delete the line and add the new attribute. You can delete a condition line by clicking the **Delete** (![]({{ site.baseurl }}{% link images/images/btn-del-red.png %}){: .Inline}) button at the end of the line.
+      After you set the attribute, it cannot be edited. To change the attribute, you must delete the line and add the new attribute. You can delete a condition line by clicking the **Delete** (![]({{ site.baseurl }}{% link images/images/btn-del-red.png %}){: .Inline}) button at the end of the line.
 
    - Click **is** and choose the comparison operator that describes the condition for products to meet. For this example, the comparison operator is `is`. The available options depend on the attribute selected in the previous step and may include different comparison options such as matching values, not including or including at least one of a value, and greater than, equal to, and less than a numerical amount. In this example, the options are `is` and `is not`.
 
-   - Click **...** and choose the attribute value upon which the condition is based. The options displayed depend on the attribute's setup. You may be asked to select an option from a drop-down, or you may need to enter text or numerical values for the condition. For this example, the field displays blank. To select your category(ies) for the rule, click the chooser icon (![]({{ site.baseurl }}{% link images/images/btn-chooser.png %}){: .Inline}) to display your selection options. This rule is for Books, click the Books checkbox. The category number populates in the field. Click the green checkmark icon (![]({{ site.baseurl }}{% link images/images/btn-checkmark-green.png %}){: .Inline}) to accept your category selection(s).
+   - Click **...** and choose the attribute value upon which the condition is based. The options displayed depend on the attribute's setup. You might be prompted to select an option or enter a value for the condition. For this example, the field displays blank. To select your category(ies) for the rule, click the chooser icon (![]({{ site.baseurl }}{% link images/images/btn-chooser.png %}){: .Inline}) to display your selection options. This rule is for Books, click the Books checkbox. The category number populates in the field. Click the green checkmark icon (![]({{ site.baseurl }}{% link images/images/btn-checkmark-green.png %}){: .Inline}) to accept your category selection(s).
 
       ![]({{ site.baseurl }}{% link images/images/sales-channels/amazon/ob-price-rule-condition-3.png %}){: .zoom}
       _Condition Line 2, Part 3_
 
-      The selected item displays in the statement to complete the condition.
+      The selected item appears in the statement to complete the condition.
 
       ![]({{ site.baseurl }}{% link images/images/sales-channels/amazon/ob-price-rule-condition-4.png %}){: .zoom}
       _Condition Line 2, Part 4_

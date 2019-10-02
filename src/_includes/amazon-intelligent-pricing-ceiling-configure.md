@@ -2,7 +2,7 @@ Select your optional highest price setting in the **Optional Ceiling Price** sec
 
 1. For **Ceiling Price Source**, choose an attribute from the drop-down.
 
-   Select your Magento attribute which will indicate your relative ceiling limit. For example, if you do not want your product listing price to go above the MSRP of your item, you would choose the Manufacturer's Suggested Retail Price attribute.
+   Select your Magento attribute that will indicate your relative ceiling limit. For example, if you do not want your product listing price to go above the MSRP of your item, you would choose the Manufacturer's Suggested Retail Price attribute.
 
 1. For **Ceiling Price Action**, select an option.
 

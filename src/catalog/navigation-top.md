@@ -32,7 +32,7 @@ See “[Creating Categories]({{ site.baseurl }}{% link catalog/category-create.m
 
 1. Expand the **Category Top Navigation** section.
 
-   Because the depth of the top navigation has a global [configuration scope]({{ site.baseurl }}{% link configuration/scope.md %}), the setting applies to all websites, stores, and store views in the Magento installation. The Category Top Navigation configuration section is available only when Store View in the upper-left corner is set to “Default Config”.
+   Because the depth of the top navigation has a global [configuration scope]({{ site.baseurl }}{% link configuration/scope.md %}), the setting applies to all websites, stores, and store views in the Magento installation. The Category Top Navigation configuration section is available only when Store View in the upper-left corner is set to `Default Config`.
 
    ![]({{ site.baseurl }}{% link images/images/configuration-store-view-default-config.png %}){: .zoom}
    *Default Config*

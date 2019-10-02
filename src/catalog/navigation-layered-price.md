@@ -37,7 +37,7 @@ Iterative splitting provides the best distribution of products among price range
 
 1. Expand ![]({{ site.baseurl }}{% link images/images/btn-expand.png %}) the **Layered Navigation** section. Then, do the following:
 
-    * By default, **Display Product Count** is set to “Yes”. The change the setting, first clear the **Use system value** checkbox.
+    * By default, **Display Product Count** is set to `Yes`. The change the setting, first clear the **Use system value** checkbox.
 
     * Set **Price Navigation Steps Calculation** to one of the following methods:
 

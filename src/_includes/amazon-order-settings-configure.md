@@ -36,7 +36,7 @@
     - **Reserve Quantity**: Choose when you want the order quantity in the Amazon order to be "reserved" in your Magento stock quantity. When this option is selected and you receive an Amazon order, the quantity ordered will "reserve" in your Magento stock quantity to prevent your Magento stock from "over selling."
 
     {:.bs-callout .bs-callout-info}
-    Remember, Amazon orders do not import into and create new orders in Magento until Amazon verifies the order and payment method changes the order status to `Unshipped`.
+    Remember, Amazon orders do not import into and create new orders in Magento until Amazon verifies the order and payment method and changes the order status to `Unshipped`.
 
 1. For **Order Status** (required), select an option from the drop-down. Options:
 

@@ -59,7 +59,7 @@ The form is updated to reflect the change.
 
 1. Enter the **Quantity** of the product that is currently in stock.
 
-    Take note that by default, **Stock Status** is set to “In Stock.”
+    Take note that by default, **Stock Status** is set to `In Stock`.
 
     {:.bs-callout .bs-callout-info}
     **Inventory Management:** If you enable [Inventory Management]({{ site.baseurl }}{% link catalog/inventory-management.md %}), Single Source merchants set the quantity in this section. Multi Source merchants add sources and quantities in the Sources section. See the following Assign Sources and Quantities (Inventory Management) section.

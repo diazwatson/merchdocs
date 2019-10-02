@@ -70,7 +70,7 @@ The form is updated to reflect the change.
 
     Take note of the following:
 
-    * By default, **Stock Status** is set to “Out of Stock.”
+    * By default, **Stock Status** is set to `Out of Stock`.
     * The **Weight** field is not used, because downloadable products are not shipped.
 
     {% include inventory-assign-sources-quantities.md %}

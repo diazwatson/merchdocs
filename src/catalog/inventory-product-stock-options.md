@@ -93,7 +93,7 @@ Configure the quantities and additional settings per [added source]({{ site.base
 
 |Field|Scope|Description|
 |--|--|--|
-| Manage Stock | Global | Determines if inventory control is used to manage this product in your catalog. Set to enable or disable all Magento Inventory Management features. You mauy want to disable if using a third- party, ERP system. |
+| Manage Stock | Global | Determines if inventory control is used to manage this product in your catalog. Set to enable or disable all Magento Inventory Management features. You may want to disable if using a third- party, ERP system. |
 | Out-of-Stock Threshold | Global | Determines the stock level at which a product is considered to be out of stock.<br /><br />Options:<br />*Positive amount*: With Backorders disabled, enter a positive amount.<br />*Zero*: With Backorders enabled, entering zero allows for infinite backorders.<br />*Negative amount*: With Backorders enabled, we recommend entering a negative amount. The amount is added to the Salable Quantity. For example, enter -50 to allow orders up to this amount.  |
 | Minimum Qty Allowed in Shopping Cart | Global | Determines the minimum number of the product that can be purchased in a single order. |
 | Maximum Qty Allowed in Shopping Cart | Global | Determines the maximum number of the product that can be purchased in a single order. |

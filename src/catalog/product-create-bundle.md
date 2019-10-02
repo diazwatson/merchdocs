@@ -49,7 +49,7 @@ The form is updated to reflect the change.
 
 1. You can either accept the default **SKU** that is based on the product name, or enter a different value. To determine the type of SKU that is assigned to each bundle item, do the following:
 
-    * A **Dynamic SKU** can be assigned automatically to each bundle item by adding a suffix to the default SKU. By default, Dynamic SKU is set to “Yes.”
+    * A **Dynamic SKU** can be assigned automatically to each bundle item by adding a suffix to the default SKU. By default, Dynamic SKU is set to `Yes`.
     * If you prefer to assign a unique SKU for each bundle item, set **Dynamic SKU** to the “No” ( ![]({{ site.baseurl }}{% link images/images/btn-switch-no.png %}){: .Inline}) position.
 
     ![]({{ site.baseurl }}{% link images/images/product-bundle-dynamic-sku-price.png %}){: .zoom}
@@ -57,7 +57,7 @@ The form is updated to reflect the change.
 
 1. To determine the price of the bundle, do one of the following:
 
-    * A **Dynamic Price** changes to reflect the options chosen by the customer. By default, Dynamic Price is set to “Yes,” and the Price field is left blank.
+    * A **Dynamic Price** changes to reflect the options chosen by the customer. By default, Dynamic Price is set to `Yes`, and the Price field is left blank.
     * To charge a fixed price for the bundle, set **Dynamic Price** to the “No.” ( ![]({{ site.baseurl }}{% link images/images/btn-switch-no.png %}){: .Inline}) position. Then, enter the **Price** that you want to charge for the bundle.
 
 1. Because the product is not yet ready to publish, set the **Enable Product** switch to the “No” ( ![]({{ site.baseurl }}{% link images/images/btn-switch-no.png %}){: .Inline} ) position.
@@ -87,7 +87,7 @@ The form is updated to reflect the change.
 
 1. To determine the weight of the bundle, do one of the following:
 
-    * A **Dynamic Weight** changes to reflect the options chosen by the customer. By default, Dynamic Weight is set to “Yes,” and the Weight field is left blank.
+    * A **Dynamic Weight** changes to reflect the options chosen by the customer. By default, Dynamic Weight is set to `Yes`, and the Weight field is left blank.
     * To assign a fixed weight to the bundle, set **Dynamic Weight** to the “No.” ( ![]({{ site.baseurl }}{% link images/images/btn-switch-no.png %}){: .Inline}) position. Then, enter the **Weight** of the bundle.
 
     ![]({{ site.baseurl }}{% link images/images/product-bundle-dynamic-weight.png %}){: .zoom}
@@ -164,7 +164,7 @@ The form is updated to reflect the change.
 
     By default, the Default Quantity that is included in a bundle item cannot be changed by the customer. However, the customer can enter the quantity of the item that is to be included in the bundle.
 
-    For example, if the Default Quantity of the Sprite Status Ball is set to 2, and the customer orders 4 of that bundle option, the total number of total balls purchased is 8.
+    For example, if the Default Quantity of the Sprite Status Ball is set to `2`, and the customer orders 4 of that bundle option, the total number of total balls purchased is 8.
 
     ![]({{ site.baseurl }}{% link images/images/product-bundle-item-detail.png %}){: .zoom}
     *Item Detail*
@@ -225,7 +225,7 @@ Scroll down and complete the information in the following sections as needed:
 
 | ![]({{ site.baseurl }}{% link images/images/assets/checkbox.png %}){: .checkbox} | Customers can “build their own” bundle product. |
 | ![]({{ site.baseurl }}{% link images/images/assets/checkbox.png %}){: .checkbox} | Bundle items can be simple or virtual products without custom options. |
-| ![]({{ site.baseurl }}{% link images/images/assets/checkbox.png %}){: .checkbox} | The Price View can be set to a price range or to “As Low As.” |
+| ![]({{ site.baseurl }}{% link images/images/assets/checkbox.png %}){: .checkbox} | The Price View can be set to a price range or to `As Low As`. |
 | ![]({{ site.baseurl }}{% link images/images/assets/checkbox.png %}){: .checkbox} | SKU and Weight can be either “Fixed” or “Dynamic.” |
 | ![]({{ site.baseurl }}{% link images/images/assets/checkbox.png %}){: .checkbox} | The quantity can be a preset or user-defined value. However, do not assign the User Defined property to checkbox or multiple-select input types. |
 | ![]({{ site.baseurl }}{% link images/images/assets/checkbox.png %}){: .checkbox} | Bundle items can be shipped together or separately. |

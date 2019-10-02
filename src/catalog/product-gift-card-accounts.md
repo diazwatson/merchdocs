@@ -38,9 +38,9 @@ A gift card account is automatically created for each Gift Card that is purchase
     ![]({{ site.baseurl }}{% link images/images-ee/gift-card-account-add-new.png %}){: .zoom}
     *New Account*
 
-1. In the **Information** section, make sure that **Active** is set to “Yes.” Then, do the following:
+1. In the **Information** section, make sure that **Active** is set to `Yes`. Then, do the following:
 
-    * To make the card balance redeemable at checkout, or transferred to the customer’s store credit, set **Redeemable** to “Yes.”
+    * To make the card balance redeemable at checkout, or transferred to the customer’s store credit, set **Redeemable** to `Yes`.
 
     * Choose the **Website** where the gift card account can be used.
 

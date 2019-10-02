@@ -2,7 +2,7 @@ Define your lowest price setting in the **Floor Price** section.
 
 1. For **Floor Price Source**, select an attribute from the drop-down.
 
-   Select your Magento attribute which will indicate your relative floor limit. For example, if you don’t want your product listing price to go below the Cost of your item, you would choose the Cost attribute.
+   Select your Magento attribute that will indicate your relative floor limit. For example, if you don’t want your product listing price to go below the Cost of your item, you would choose the Cost attribute.
 
 1. For **Floor Price Action**, select an option.
 

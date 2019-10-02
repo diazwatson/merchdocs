@@ -124,7 +124,7 @@ Complete the information in the following sections as needed:
 
 * The three types of gift cards are: Virtual, Physical, and Combined.
 
-* Gift cards can be set to “Redeemable” or “Non-Redeemable.”
+* Gift cards can be set to `Redeemable` or `Non-Redeemable`.
 
 * The lifetime of a gift card can be unlimited, or set to a number of days.
 

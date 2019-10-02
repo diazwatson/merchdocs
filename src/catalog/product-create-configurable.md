@@ -35,7 +35,7 @@ The properties of each attribute that is used for a configurable product variati
 
 ## Step 2: Choose the Attribute Set
 
-The [attribute set]({{ site.baseurl }}{% link stores/attribute-sets.md %}) determines the selection of fields that are used in the product. The attribute set that is used in the following example has drop-down attributes for color and size. The name of the attribute set is indicated at the top of the page, and is initially set to “Default”.
+The [attribute set]({{ site.baseurl }}{% link stores/attribute-sets.md %}) determines the selection of fields that are used in the product. The attribute set that is used in the following example has drop-down attributes for color and size. The name of the attribute set is indicated at the top of the page, and is initially set to `Default`.
 
 1. To choose the attribute set for the product, click the field at the top of the page and do one of the following:
 
@@ -77,7 +77,7 @@ The [attribute set]({{ site.baseurl }}{% link stores/attribute-sets.md %}) deter
 
 1. The **Quantity** is determined by the product variations, so you can leave it blank for now.
 
-    The Stock Status of a configurable product is determined by each associated configuration. Because the product was saved without entering a quantity, the Stock Status is now set to “Out of Stock.”
+    The Stock Status of a configurable product is determined by each associated configuration. Because the product was saved without entering a quantity, the Stock Status is now set to `Out of Stock`.
 
     * Enter the product **Weight**.
 

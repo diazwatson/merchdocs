@@ -57,7 +57,7 @@ Before you enable a flat catalog for a live store, make sure to test the configu
 
    1. On the Admin sidebar, tap **Products**. Then, choose **Categories**.
 
-   2. In the upper-left corner, verify that **Store View** is set to “All Store Views.”
+   2. In the upper-left corner, verify that **Store View** is set to `All Store Views`.
 
         If prompted, tap **OK** to confirm.
 

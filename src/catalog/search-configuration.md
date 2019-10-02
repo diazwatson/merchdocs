@@ -26,7 +26,7 @@ All search engines include a set of search options.
 |Enable Search Suggestions|Store View|Determines if search suggestions appear for common misspellings. When enabled, search suggestions are offered for any request that returns no results. Search suggestions can impact the performance of search. Options: Yes / No. When set to Yes, additional options display for Enable Search Recommendations and associated fields.|
 |Search Suggestions Count|Store View|The maximum number of search suggestions offered. Default value: 2|
 |Show Results Count for Each Suggestion|Store View|Determines if the number of search results is shown for each suggestion. Depending on theme, the number usually appears in brackets after the suggestion. Options: Yes / No|
-|Enable Search Recommendations|Store View|Determines if search recommendations are offered when a search returns no results. Options include: Yes / No. When set to Yes, additional options display for Search Recommendations Count and Shows Results Count for Each Recommendation.|
+|Enable Search Recommendations|Store View|Determines if search recommendations are offered when a search returns no results. Options include: Yes / No. When set to `Yes`, additional options display for Search Recommendations Count and Shows Results Count for Each Recommendation.|
 |Search Recommendations Count|Store View|Specifies the number of  search terms offered as recommendations. By default, no more than five are shown.|
 |Show Results Count for Each Recommendation|Store View|When set to "Yes", the number of products found for the proposed search recommendation is shown in the brackets. Options: Yes / No|
 {:style="table-layout:auto"}
