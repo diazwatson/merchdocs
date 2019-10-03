@@ -164,7 +164,7 @@ _Choose Template_
 
     By default, the Default Quantity that is included in a bundle item cannot be changed by the customer. However, the customer can enter the quantity of the item that is to be included in the bundle.
 
-    For example, if the Default Quantity of the Sprite Status Ball is set to 2, and the customer orders 4 of that bundle option, the total number of total balls purchased is 8.
+    For example, if the Default Quantity of the Sprite Status Ball is set to `2`, and the customer orders 4 of that bundle option, the total number of total balls purchased is 8.
 
     ![]({{ site.baseurl }}{% link images/images/product-bundle-item-detail.png %}){: .zoom}
     _Item Detail_

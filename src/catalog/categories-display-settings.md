@@ -24,7 +24,7 @@ The Display Settings determine which content elements appear on a category page 
          </tr>
          <tr>
             <td>Anchor</td>
-            <td>When set to “Yes”, includes the “filter by attribute” section in the layered navigation. Options: Yes / No</td>
+            <td>When set to `Yes`, includes the “filter by attribute” section in the layered navigation. Options: Yes / No</td>
          </tr>
          <tr>
             <td>Available Product Listing Sort By</td>

@@ -23,7 +23,7 @@ Configure the default configuration options for product and stock for your websi
 
    1. Enter an amount for **Only X left Threshold** to start displaying the last remaining inventory amount on the product page.
 
-       The message begins to appear when the quantity in stock reaches the threshold. For example, if set to 3, the message “Only 3 left” appears when the quantity in stock reaches 3. The message adjusts to reflect the quantity in stock, until the quantity reaches zero.
+       The message begins to appear when the quantity in stock reaches the threshold. For example, if set to `3`, the message “Only 3 left” appears when the quantity in stock reaches 3. The message adjusts to reflect the quantity in stock, until the quantity reaches zero.
 
    1. To display an “In Stock” or “Out of Stock” message on the product page, set **Display Products Availability In Stock on Storefront** to “Yes.”
 
@@ -61,7 +61,7 @@ Configure the default configuration options for product and stock for your websi
 
    1. To activate quantity increments for the product, set **Enable Qty Increments** to “Yes.” Then in the **Qty Increments** field, enter the number of the items that must be purchased to meet the requirement. For example, an item that is sold in increments of 6 can be purchased in quantities of 6, 12, 18, and so on.
 
-   1. For Inventory Management, **Automatically Return Credit Memo Item to Stock** is set to "No". When submitting a credit memo, you enter and select to return stock to sources.
+   1. For Inventory Management, **Automatically Return Credit Memo Item to Stock** is set to `No`. When submitting a credit memo, you enter and select to return stock to sources.
 
 1. Expand ![]({{ site.baseurl }}{% link images/images/btn-expand.png %}){: .Inline} the **Admin bulk operations** section.
 

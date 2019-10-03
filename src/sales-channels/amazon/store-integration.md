@@ -26,7 +26,12 @@ A list of [Pre-Setup Tasks]({{ site.baseurl }}{% link sales-channels/amazon/amaz
 <br/>{:.bs-callout .bs-callout-info}
 This name is used as a Magento reference only and will identify the store in the list on the Amazon Sales Channel Home page. You will want to make it something your team can easily identify. For example, your Amazon store that sells in the United States region might be named "Amazon Store USA".
 
-1. From the **Amazon Marketplace** drop-down, select the region in which for your Amazon store sells.
+1. For **Amazon Marketplace**, select the region in which for your Amazon store sells. Options:
+
+    - United States
+    - Canada
+    - Mexico
+    - United Kingdom
 
 1. Click <span class="btn">Save Marketplace</span>. Your new marketplace is saved. Next, connect your new store with your Amazon Seller Central account.
 

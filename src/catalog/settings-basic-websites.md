@@ -31,6 +31,6 @@ The Product in Websites section identifies each website where the product is ava
 
     * Enter the **Price** of the product for this store view.
 
-    Because the scope of the base currency is set to "website", it is possible to sell the product for a different price in each website.
+    Because the scope of the base currency is set to `website`, it is possible to sell the product for a different price in each website.
 
 1. When complete, tap <span class="btn">Save</span>.

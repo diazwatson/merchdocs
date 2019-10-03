@@ -16,7 +16,7 @@ MySQL is the default search engine. By adjusting the Catalog Search configuratio
 
 1. Expand ![]({{ site.baseurl }}{% link images/images/btn-expand.png %}) the **Catalog Search** section.
 
-1. By default, the **Search Engine** is set to “MySQL”. If switching to MySQL, select that option. This affects the available fields.
+1. By default, the **Search Engine** is set to `MySQL`. If switching to MySQL, select that option. This affects the available fields.
 
 1. To limit the length and word count of search query text, set the **Minimal Query Length** and **Maximum Query Length**.
 

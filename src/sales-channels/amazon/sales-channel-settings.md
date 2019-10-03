@@ -12,9 +12,9 @@ Amazon Sales Channel settings are defaulted during installation of the extension
 
 ## To modify your Amazon Sales Channel settings:
 
-1. Click **Stores** in the _Admin_ sidebar. Then under _Settings_, click **Configuration**.
+1. On the _Admin_ sidebar, go to **Stores** > _Settings_ > **Configuration**.
 
-1. Scroll down and click **Sales Channels** and then **Global Settings**.
+1. Scroll down and click **Sales Channels** and then **Global Settings**. 
 
 1. For **Show Dashboard Chart**, select an option.
 

@@ -16,7 +16,7 @@ For example, a 3000 x 2100 pixel JPG at 100% could be a 5mb+ image. Resizing thi
 
 1. Expand ![]({{ site.baseurl }}{% link images/images/btn-expand.png %}){: .Inline}the Images Upload Configuration section, and configure. TO change default settings, you may need to clear the Use system value checkbox.
 
-   * To enable, make sure **Enable Frontend Resize** is set to "Yes".
+   * To enable, make sure **Enable Frontend Resize** is set to `Yes`.
 
    * Enter a **Quality** setting from 1 to 100%. Recommend 80-90% for a reduced file size and high quality.
 
