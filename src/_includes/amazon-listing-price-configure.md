@@ -25,7 +25,7 @@
    - **Enabled**: Choose when you want to apply VAT to your listing price. VAT is typically used as a sales tax in European countries and is added to your final listed price within Amazon. VAT does not apply to final price for listings that are used within an intelligent pricing rule, unless the price floor is hit.
 
    {:.bs-callout .bs-callout-info}
-   Businesses in the European Union (EU) are required to send invoices to business buyers, so that the customer can remit tax. You can either generate these invoices and calculate the taxes yourself or use a tax calculation service such as Amazon's VAT Calculation Service. Amazon recommends signing up for the [Amazon VAT Calculation Service](https://services.amazon.co.uk/vat-calculation-service.html). If you choose a different method, you are responsible for VAT compliance.
+   Businesses in the European Union (EU) are required to send invoices to business buyers, so that the customer can remit tax. You can either generate these invoices and calculate the taxes yourself or use a tax calculation service such as Amazon's VAT Calculation Service. Amazon recommends signing up for the [Amazon VAT Calculation Service](https://services.amazon.co.uk/vat-calculation-service.html). If you choose a different method, you are responsible for VAT compliance.<br/><br/>**Note**: It may take 10-14 days for Amazon to verify and activate your VAT Calculation Service account.
 
 1. For **VAT Percentage**, enter the value for your VAT rate (default is `0.00`).
 
